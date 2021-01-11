@@ -1,5 +1,5 @@
 ## Around - a social network application
-
+[project demo](https://www.dropbox.com/s/hux7xtpmkjqnigl/Around_compressed.mp4?dl=0)
 #### Functionality
 - New user registration/ login/ logout
 - Create new posts to share photos and videos
